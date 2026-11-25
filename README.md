@@ -1,1 +1,1 @@
-# Problema-Zidului-de-C-ramid-
+# Problema-Zidului-de-Cărămidă
